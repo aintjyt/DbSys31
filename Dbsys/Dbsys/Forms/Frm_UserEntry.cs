@@ -36,7 +36,10 @@ namespace Dbsys
 
         private void btnRegistion_Click(object sender, EventArgs e)
         {
-            String username = txtUsername.Text;
+            DBSYSEntities db = new DBSYSEntities();
+            db.SP_NewUser1(txtUsername.Text, txtPassword.Text, UserLogged.GetInstance().UserAccount.userId, 1);
+            loadUser();
+            /*String username = txtUsername.Text;
             String pass = txtPassword.Text;
 
             String strOutputMsg = "";
@@ -74,7 +77,7 @@ namespace Dbsys
             {
                 // error 
                 MessageBox.Show(strOutputMsg, "Message", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
-            }
+            }*/
         }
 
         private void dgv_main_CellClick(object sender, DataGridViewCellEventArgs e)

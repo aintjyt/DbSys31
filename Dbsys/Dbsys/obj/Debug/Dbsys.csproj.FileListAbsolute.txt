@@ -22,3 +22,20 @@ C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Task\Class\Application\Db
 C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Task\Class\Application\DbSys31\Dbsys\Dbsys\bin\Debug\EntityFramework.xml
 C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Task\Class\Application\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Register.resources
 C:\Users\hn185036\OneDrive - NCR Corporation\Documents\Task\Class\Application\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Admin_Dashboard.resources
+C:\Users\Admin\Desktop\DbSys31\Dbsys\Dbsys\bin\Debug\Dbsys.exe.config
+C:\Users\Admin\Desktop\DbSys31\Dbsys\Dbsys\bin\Debug\Dbsys.exe
+C:\Users\Admin\Desktop\DbSys31\Dbsys\Dbsys\bin\Debug\Dbsys.pdb
+C:\Users\Admin\Desktop\DbSys31\Dbsys\Dbsys\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\DbSys31\Dbsys\Dbsys\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Admin_Dashboard.resources
+C:\Users\Admin\Desktop\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.Forms.Frm_Register.resources
+C:\Users\Admin\Desktop\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.Frm_UserEntry.resources
+C:\Users\Admin\Desktop\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.Frm_Login.resources
+C:\Users\Admin\Desktop\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.Properties.Resources.resources
+C:\Users\Admin\Desktop\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.csproj.CopyComplete
+C:\Users\Admin\Desktop\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.exe
+C:\Users\Admin\Desktop\DbSys31\Dbsys\Dbsys\obj\Debug\Dbsys.pdb
